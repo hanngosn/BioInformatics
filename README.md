@@ -6,7 +6,10 @@ algorithms are optimized to address those problems. Computational biology involv
 
 Resources: 
 • An Introduction to Bioinformatics Algorithms, Neil Jones, Pavel Pevzner, MIT Press
+
 • Bioinformatics: Sequence and Genome Analysis, David Mount, Cold Springs Harbor Laboratory
 Press
+
 • Bioinformatics: Problem Solving Paradigms, Volker Sperschneider, Springer 
+
 • Biological Sequence Analysis: Probabilistic Models of Proteins and Nucleic Acids, Richard Durbin, Sean Eddy, Anders Krogh, Graeme Mitchison, Cambridge University Press
