@@ -1,0 +1,117 @@
+
+HW2: HW2_Knox.py
+File: test2.fasta
+k-mer Length: 3
+
+k-mers	Occurances
+TTT 	833
+AAA 	767
+ATT 	422
+AAT 	393
+ATA 	359
+ACA 	359
+
+k-mer	Seq Count
+TTA 	77
+GTA 	77
+CAT 	77
+ATT 	77
+AAT 	77
+
+HW2: HW2_Knox.py
+File: test2.fasta
+k-mer Length: 4
+
+k-mers	Occurances
+TTTT 	394
+AAAA 	372
+ATTT 	180
+TTTC 	178
+AAAT 	158
+
+k-mer	Seq Count
+TTTT 	69
+TTTA 	69
+AAAA 	68
+CAAA 	67
+TTTC 	65
+AAAT 	65
+
+HW2: HW2_Knox.py
+File: test2.fasta
+k-mer Length: 5
+
+k-mers	Occurances
+TTTTT 	197
+AAAAA 	191
+TTTTC 	89
+ATTTT 	84
+AAAAT 	77
+
+k-mer	Seq Count
+AAAAA 	56
+TTTTT 	53
+AAAAT 	51
+TTTTC 	47
+GAAAA 	47
+
+HW2: HW2_Knox.py
+File: test2.fasta
+k-mer Length: 6
+
+k-mers	Occurances
+TTTTTT 	106
+AAAAAA 	99
+TTTTTC 	42
+ATTTTT 	40
+TTTTCT 	38
+CTTTTT 	38
+
+k-mer	Seq Count
+AAAAAA 	41
+TTTTTT 	35
+TTTTTC 	31
+CAAAAA 	30
+ATTTTT 	29
+AAAAAT 	29
+
+HW2: HW2_Knox.py
+File: test2.fasta
+k-mer Length: 7
+
+k-mers	Occurances
+TTTTTTT 	54
+AAAAAAA 	46
+ATTTTTT 	25
+AAAAAAG 	25
+CAAAAAA 	24
+
+k-mer	Seq Count
+AAAAAAA 	24
+AAAAAAG 	22
+CTTTTTT 	21
+CAAAAAA 	21
+TTTTTCA 	19
+AAAAAGA 	19
+
+HW2: HW2_Knox.py
+File: test2.fasta
+k-mer Length: 8
+
+k-mers	Occurances
+TTTTTTTT 	32
+AAAAAAAA 	18
+CAAAAAAA 	16
+ACATCCGT 	15
+TTCTTTTT 	13
+TGAAAAAA 	13
+TCTTTTTT 	13
+ATGTATGG 	13
+AAAAAAGA 	13
+
+k-mer	Seq Count
+CAAAAAAA 	14
+TTCTTTTT 	13
+TGAAAAAA 	13
+ACATCCGT 	13
+AAAAAAGA 	13

@@ -1,0 +1,121 @@
+
+File: test1.fasta
+K-mer length: 3
+
+k-mers	Occurances
+TAC	14
+CGG	13
+TTA	13
+ACG	12
+ATT	9
+GGG	9
+
+k-mers	Seq Count
+ACG	12
+CGG	12
+TAC	12
+TTA	12
+ATT	8
+------------------
+File: test1.fasta
+K-mer length: 4
+
+k-mers	Occurances
+TTAC	13
+ACGG	12
+TACG	12
+CGGG	5
+CGGT	5
+
+k-mers	Seq Count
+TTAC	12
+ACGG	12
+TACG	12
+CGGG	5
+CGGT	5
+------------------
+File: test1.fasta
+K-mer length: 5
+
+k-mers	Occurances
+TACGG	12
+TTACG	12
+ACGGG	5
+ACGGT	4
+CTTAC	4
+TTTAC	4
+
+k-mers	Seq Count
+TACGG	12
+TTACG	12
+ACGGG	5
+ACGGT	4
+CTTAC	4
+TTTAC	4
+------------------
+File: test1.fasta
+K-mer length: 6
+
+k-mers	Occurances
+TTACGG	12
+TACGGG	5
+TTTACG	4
+CTTACG	4
+TACGGT	4
+
+k-mers	Seq Count
+TTACGG	12
+TACGGG	5
+TTTACG	4
+CTTACG	4
+TACGGT	4
+------------------
+File: test1.fasta
+K-mer length: 7
+
+k-mers	Occurances
+TTACGGG	5
+CTTACGG	4
+TTTACGG	4
+TTACGGT	4
+ATTACGG	3
+TCTTACG	3
+
+k-mers	Seq Count
+TTACGGG	5
+CTTACGG	4
+TTTACGG	4
+TTACGGT	4
+ATTACGG	3
+TCTTACG	3
+------------------
+File: test1.fasta
+K-mer length: 8
+
+k-mers	Occurances
+TCTTACGG	3
+TTTACGGG	2
+TTACGGGC	2
+TTACGGGG	2
+CTTACGGG	2
+CATTACGG	2
+CTTACGGT	2
+TACGGTAT	2
+TTACGGTA	2
+TTCTTACG	2
+ATTTACGG	2
+TACGGGCG	2
+
+k-mers	Seq Count
+TCTTACGG	3
+TTTACGGG	2
+TTACGGGC	2
+TTACGGGG	2
+CTTACGGG	2
+CATTACGG	2
+CTTACGGT	2
+TACGGTAT	2
+TTACGGTA	2
+TTCTTACG	2
+ATTTACGG	2
+TACGGGCG	2

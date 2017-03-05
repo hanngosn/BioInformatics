@@ -1,0 +1,104 @@
+
+File: test3.fasta
+K-mer length: 3
+
+k-mers	Occurances
+AAA	31903
+AAT	26239
+ATA	25606
+TAT	25217
+ATT	22615
+
+k-mers	Seq Count
+TGT	923
+AAT	900
+ATA	899
+TAT	899
+TAA	899
+------------------
+File: test3.fasta
+K-mer length: 4
+
+k-mers	Occurances
+AAAA	11511
+ATAT	9628
+AATA	9057
+AAAT	8796
+TATT	7907
+
+k-mers	Seq Count
+AATA	880
+ATAT	874
+TTAT	865
+TAAT	859
+TAAA	855
+------------------
+File: test3.fasta
+K-mer length: 5
+
+k-mers	Occurances
+AAAAA	4153
+ATATT	3548
+AATAT	3508
+AGAAA	3105
+AAAAT	3045
+
+k-mers	Seq Count
+AATAT	775
+ATATT	761
+TAAAA	749
+TATAT	745
+AAAAT	740
+------------------
+File: test3.fasta
+K-mer length: 6
+
+k-mers	Occurances
+ATATTA	1581
+AATATT	1523
+AAAAAA	1465
+TATTAT	1457
+TTTTTT	1388
+
+k-mers	Seq Count
+ATATTA	578
+TATATT	573
+ATAAAA	569
+TAATAT	550
+TATTAT	539
+------------------
+File: test3.fasta
+K-mer length: 7
+
+k-mers	Occurances
+ATATTAT	916
+TAATATT	762
+TTTTTTT	762
+AATATTA	732
+GGTGTGG	670
+
+k-mers	Seq Count
+TAATATT	397
+ATATTAT	397
+TATATTA	377
+AATATTA	373
+ATATAAA	372
+------------------
+File: test3.fasta
+K-mer length: 8
+
+k-mers	Occurances
+TGTGGGTG	550
+TGGGTGTG	532
+GTGGGTGT	531
+GTGTGGGT	526
+TAGTATAT	497
+
+k-mers	Seq Count
+AACAATTA	313
+TAGTATAT	312
+TAATATTA	305
+AATATTAT	303
+TTGATAAT	288
+AGTATATT	288
+TATATTAT	288

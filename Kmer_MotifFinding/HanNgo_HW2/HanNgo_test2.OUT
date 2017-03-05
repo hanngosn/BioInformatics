@@ -1,0 +1,111 @@
+
+File: test2.fasta
+K-mer length: 3
+
+k-mers	Occurances
+TTT	833
+AAA	767
+ATT	422
+AAT	393
+ATA	359
+ACA	359
+
+k-mers	Seq Count
+CAT	77
+AAT	77
+ATT	77
+TTA	77
+GTA	77
+------------------
+File: test2.fasta
+K-mer length: 4
+
+k-mers	Occurances
+TTTT	394
+AAAA	372
+ATTT	180
+TTTC	178
+AAAT	158
+
+k-mers	Seq Count
+TTTA	69
+TTTT	69
+AAAA	68
+CAAA	67
+AAAT	65
+TTTC	65
+------------------
+File: test2.fasta
+K-mer length: 5
+
+k-mers	Occurances
+TTTTT	197
+AAAAA	191
+TTTTC	89
+ATTTT	84
+AAAAT	77
+
+k-mers	Seq Count
+AAAAA	56
+TTTTT	53
+AAAAT	51
+GAAAA	47
+TTTTC	47
+------------------
+File: test2.fasta
+K-mer length: 6
+
+k-mers	Occurances
+TTTTTT	106
+AAAAAA	99
+TTTTTC	42
+ATTTTT	40
+CTTTTT	38
+TTTTCT	38
+
+k-mers	Seq Count
+AAAAAA	41
+TTTTTT	35
+TTTTTC	31
+CAAAAA	30
+ATTTTT	29
+AAAAAT	29
+------------------
+File: test2.fasta
+K-mer length: 7
+
+k-mers	Occurances
+TTTTTTT	54
+AAAAAAA	46
+AAAAAAG	25
+ATTTTTT	25
+CAAAAAA	24
+
+k-mers	Seq Count
+AAAAAAA	24
+AAAAAAG	22
+CAAAAAA	21
+CTTTTTT	21
+TTTTTCA	19
+AAAAAGA	19
+------------------
+File: test2.fasta
+K-mer length: 8
+
+k-mers	Occurances
+TTTTTTTT	32
+AAAAAAAA	18
+CAAAAAAA	16
+ACATCCGT	15
+TCTTTTTT	13
+ATGTATGG	13
+AAAAAAGA	13
+TGAAAAAA	13
+TTCTTTTT	13
+
+k-mers	Seq Count
+CAAAAAAA	14
+AAAAAAGA	13
+ACATCCGT	13
+TGAAAAAA	13
+TTCTTTTT	13
