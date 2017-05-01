@@ -1,14 +1,16 @@
+/*
+Created on April 28, 2017
+
+@author: Hannie
+*/
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.HashSet;
 import java.util.Set;
 
-/*
-Created on April 28, 2017
 
-@author: Hannie
-*/
 
 
 public class MainCaller {
