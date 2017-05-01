@@ -1,7 +1,9 @@
 /*
 Created on April 28, 2017
-
 @author: Hannie
+
+Based on Ukkonen's paper
+Source: Alessandro Bahgat Shehata's implementation of Suffix Array 
 */
 
 import java.util.Collection;
@@ -93,8 +95,6 @@ public class Tree {
         String remainder = key;
         Node s = root;
 
-        // proceed with tree construction (closely related to procedure in
-        // Ukkonen's paper)
         String text = "";
         // iterate over the string, one char at a time
         for (int i = 0; i < remainder.length(); i++) {
